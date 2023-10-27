@@ -1,0 +1,40 @@
+{ "people":[
+    {   "id": 1,
+        "name": "Tom",
+        "favouriteNumber": 4,
+        "isProgrammer": true,
+        "hobbies": ["coding", "reading", "researching"],
+        "friend": [{
+            "name": "Joseph",
+            "favouriteNumber": 20,
+            "isProgrammer": false
+        }]
+    },
+
+    {
+        "id": 2,
+        "name": "Lawrence",
+        "favouriteNumber": 8,
+        "isProgrammer": false,
+        "hobbies": ["writing", "reading", "travelling"],
+        "friend": [{
+            "name": "Michael",
+            "favouriteNumber": 30,
+            "isProgrammer": true
+        }]
+    },
+
+    {
+        "id": 3,
+        "name": "Lukman",
+        "favouriteNumber": 11,
+        "isProgrammer": true,
+        "hobbies": ["coding", "solving coding challenge", "researching"],
+        "friend": [{
+            "name": "Victoria",
+            "favouriteNumber": 100,
+            "isProgrammer": false
+        }]
+    }
+]
+}
